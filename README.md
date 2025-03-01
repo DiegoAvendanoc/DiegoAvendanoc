@@ -16,8 +16,7 @@ DiegoAvendanoc@github
 -------------------------
 💻 Soy un desarrollador con conocimientos basicos de Back-end e Front-end
    y Analista de Sistemas
-📚 Tengo una Licenciatura en Análisis de Sistemas Empresariales de la
-    Institucion Superior de Valle Grande en Lima/Cañete de Peru
+📚 Tengo una Licenciatura en Análisis de Sistemas de la Institucion Superior de Valle Grande en Lima/Cañete de Peru
 📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial.
 🔭 Trabajando en aprendizaje profundo y aprendizaje automático
 🌱 Aprender sobre visión por computadora y aprendizaje automático
