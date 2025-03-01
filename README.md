@@ -18,7 +18,7 @@ Hola soy Diego Alonso Avendaño Cardenas!
 📝 Tengo interés en la ciencia de datos y la inteligencia artificial.
 🔭 Trabajando en aprendizaje profundo y aprendizaje automático.
 🌱 Aprender sobre visión por computadora y aprendizaje automático.
-🌟 Idiomas principales: Java, JavaScript.
+🌟 Idiomas principales: Español, Ingles Basico.
 🚩 Interesado en el desarrollo de aplicaciones.
 💖 En una relación complicada con las Redes Neuronales.
 🎵 Me encanta el Hip Hop, Rock y la música suave.
