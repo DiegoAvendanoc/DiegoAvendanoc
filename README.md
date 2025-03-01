@@ -14,7 +14,7 @@ Hola soy Diego Avendaño!
 ```
 -------------------------
 💻 Soy un desarrollador con conocimientos de Back-end e Front-end.
-📚 Tengo una Licenciatura en Análisis de Sistemas, Valle Grande en Lima/Peru.
+📚 Tengo una Licenciatura en Análisis de Sistemas, Valle Grande Lima/Peru.
 📝 Tengo interés en la ciencia de datos y la inteligencia artificial.
 🔭 Trabajando en aprendizaje profundo y aprendizaje automático.
 🌱 Aprender sobre visión por computadora y aprendizaje automático.
