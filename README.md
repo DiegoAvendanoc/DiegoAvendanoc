@@ -5,26 +5,24 @@ Hola soy Diego Avendaño!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Informatico;+Desarrollador+Web&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-DiegoAvendanoc@github
 -------------------------
-💻 Soy un desarrollador con conocimientos basicos de Back-end e Front-end
-   y Analista de Sistemas
-📚 Tengo una Licenciatura en Análisis de Sistemas de la Institucion Superior de Valle Grande en Lima/Cañete de Peru
+💻 Soy un desarrollador con conocimientos basicos de Back-end e Front-end.
+📚 Tengo una Licenciatura en Análisis de Sistemas, Valle Grande en Lima/Peru.
 📝 Tengo un gran interés en la ciencia de datos y la inteligencia artificial.
-🔭 Trabajando en aprendizaje profundo y aprendizaje automático
-🌱 Aprender sobre visión por computadora y aprendizaje automático
+🔭 Trabajando en aprendizaje profundo y aprendizaje automático.
+🌱 Aprender sobre visión por computadora y aprendizaje automático.
 🌟 Idiomas principales: Java, JavaScript
-🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack
-💖 En una relación complicada con las Redes Neuronales
+🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático Full Stack.
+💖 En una relación complicada con las Redes Neuronales.
 🎵 Me encanta el Hip Hop, Rock y la música suave.
-
+-------------------------
 ```
 <hr>
 
@@ -81,46 +79,4 @@ DiegoAvendanoc@github
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
-
-
-## GitHub Estadisticas
-
-
-|                                                                     Estadisticas                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=DiegoAvendanoc&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoAvendanoc&theme=algolia)                    | 
-    
-
-|                                                                                                      Logros                                                                                                       |                                                           Top Lenguajes                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=DiegoAvendanoc&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAvendanoc&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## ¡Trabajemos juntos en su proyecto!
-
-Si tiene alguna pregunta sobre el desarrollo web, no dude en <a href="mailto:diego.avendano@vallegrande.edu.pe">contácteme por correo electrónico</a>
-
-Puedes contratarme en <a href="https://www.linkedin.com/in/diego-alonso-avenda%C3%B1o-cardenas-50a547240/">LinkedIn</a>.
-
-  </td>
-  <td width="50%" valign="top">
-
-## No es perfecto, ¿no?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Pregúntame%20lo%20que-sea-1abc9c.svg">**
-
-"Creo que es muy importante tener un circuito de retroalimentación, en el que estés pensando constantemente en lo que has hecho y cómo podrías hacerlo mejor".
-- Elon Musk
-
-  </td>
-  </tr>
-</table>
-
 ------
