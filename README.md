@@ -19,7 +19,7 @@ Hola soy Diego Avendaño!
 🔭 Trabajando en aprendizaje profundo y aprendizaje automático.
 🌱 Aprender sobre visión por computadora y aprendizaje automático.
 🌟 Idiomas principales: Java, JavaScript.
-🚩 Interesado en el desarrollo de aplicaciones de aprendizaje automático.
+🚩 Interesado en el desarrollo de aplicaciones.
 💖 En una relación complicada con las Redes Neuronales.
 🎵 Me encanta el Hip Hop, Rock y la música suave.
 -------------------------
